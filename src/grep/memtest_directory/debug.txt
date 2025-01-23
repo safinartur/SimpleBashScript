@@ -1,0 +1,1120 @@
+
+
+	TEST NUMBER     7
+	[^ -v memtests/long_string.txt
+
+
+
+	TEST NUMBER    31
+	[^ -v memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4 
+
+
+
+	TEST NUMBER    34
+	 -v 
+
+
+
+	TEST NUMBER    35
+	-f -v 
+
+
+
+	TEST NUMBER    36
+	-e w -e h -e a -e t -e d -e a -e f -e q -v 
+
+
+
+	TEST NUMBER    37
+	-e d -f memtests/pattern -v 
+
+
+
+	TEST NUMBER    38
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -v 
+
+
+
+	TEST NUMBER    47
+	[^ -c memtests/long_string.txt
+
+
+
+	TEST NUMBER    71
+	[^ -c memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4 
+
+
+
+	TEST NUMBER    74
+	 -c 
+
+
+
+	TEST NUMBER    75
+	-f -c 
+
+
+
+	TEST NUMBER    76
+	-e w -e h -e a -e t -e d -e a -e f -e q -c 
+
+
+
+	TEST NUMBER    77
+	-e d -f memtests/pattern -c 
+
+
+
+	TEST NUMBER    78
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -c 
+
+
+
+	TEST NUMBER    87
+	[^ -l memtests/long_string.txt
+
+
+
+	TEST NUMBER   111
+	[^ -l memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4 
+
+
+
+	TEST NUMBER   114
+	 -l 
+
+
+
+	TEST NUMBER   115
+	-f -l 
+
+
+
+	TEST NUMBER   116
+	-e w -e h -e a -e t -e d -e a -e f -e q -l 
+
+
+
+	TEST NUMBER   117
+	-e d -f memtests/pattern -l 
+
+
+
+	TEST NUMBER   118
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -l 
+
+
+
+	TEST NUMBER   127
+	[^ -n memtests/long_string.txt
+
+
+
+	TEST NUMBER   151
+	[^ -n memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4 
+
+
+
+	TEST NUMBER   154
+	 -n 
+
+
+
+	TEST NUMBER   155
+	-f -n 
+
+
+
+	TEST NUMBER   156
+	-e w -e h -e a -e t -e d -e a -e f -e q -n 
+
+
+
+	TEST NUMBER   157
+	-e d -f memtests/pattern -n 
+
+
+
+	TEST NUMBER   158
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -n 
+
+
+
+	TEST NUMBER   167
+	[^ -h memtests/long_string.txt
+
+
+
+	TEST NUMBER   191
+	[^ -h memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4 
+
+
+
+	TEST NUMBER   194
+	 -h 
+
+
+
+	TEST NUMBER   195
+	-f -h 
+
+
+
+	TEST NUMBER   196
+	-e w -e h -e a -e t -e d -e a -e f -e q -h 
+
+
+
+	TEST NUMBER   197
+	-e d -f memtests/pattern -h 
+
+
+
+	TEST NUMBER   198
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -h 
+
+
+
+	TEST NUMBER   207
+	[^ -o memtests/long_string.txt
+
+
+
+	TEST NUMBER   231
+	[^ -o memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4 
+
+
+
+	TEST NUMBER   234
+	 -o 
+
+
+
+	TEST NUMBER   235
+	-f -o 
+
+
+
+	TEST NUMBER   236
+	-e w -e h -e a -e t -e d -e a -e f -e q -o 
+
+
+
+	TEST NUMBER   237
+	-e d -f memtests/pattern -o 
+
+
+
+	TEST NUMBER   238
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -o 
+
+
+
+	TEST NUMBER   247
+	[^ -i memtests/long_string.txt
+
+
+
+	TEST NUMBER   271
+	[^ -i memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4 
+
+
+
+	TEST NUMBER   274
+	 -i 
+
+
+
+	TEST NUMBER   275
+	-f -i 
+
+
+
+	TEST NUMBER   276
+	-e w -e h -e a -e t -e d -e a -e f -e q -i 
+
+
+
+	TEST NUMBER   277
+	-e d -f memtests/pattern -i 
+
+
+
+	TEST NUMBER   278
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -i 
+
+
+
+	TEST NUMBER   287
+	[^ -s memtests/long_string.txt
+
+
+
+	TEST NUMBER   311
+	[^ -s memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4  memtests/test_4.1 memtests/empty memtests/test_4.2 memtests/linefeed memtests/test_4.3 memtests/test_4.4 
+
+
+
+	TEST NUMBER   314
+	 -s 
+
+
+
+	TEST NUMBER   315
+	-f -s 
+
+
+
+	TEST NUMBER   316
+	-e w -e h -e a -e t -e d -e a -e f -e q -s 
+
+
+
+	TEST NUMBER   317
+	-e d -f memtests/pattern -s 
+
+
+
+	TEST NUMBER   318
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -s 
+
+
+
+	TEST NUMBER   327
+	[^ -v memtests/long_string.txt
+
+
+
+	TEST NUMBER   351
+	[^ -v memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4 
+
+
+
+	TEST NUMBER   354
+	 -v 
+
+
+
+	TEST NUMBER   355
+	-f -v 
+
+
+
+	TEST NUMBER   356
+	-e w -e h -e a -e t -e d -e a -e f -e q -v 
+
+
+
+	TEST NUMBER   357
+	-e d -f memtests/pattern -v 
+
+
+
+	TEST NUMBER   358
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -v 
+
+
+
+	TEST NUMBER   367
+	[^ -c memtests/long_string.txt
+
+
+
+	TEST NUMBER   391
+	[^ -c memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4 
+
+
+
+	TEST NUMBER   394
+	 -c 
+
+
+
+	TEST NUMBER   395
+	-f -c 
+
+
+
+	TEST NUMBER   396
+	-e w -e h -e a -e t -e d -e a -e f -e q -c 
+
+
+
+	TEST NUMBER   397
+	-e d -f memtests/pattern -c 
+
+
+
+	TEST NUMBER   398
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -c 
+
+
+
+	TEST NUMBER   407
+	[^ -l memtests/long_string.txt
+
+
+
+	TEST NUMBER   431
+	[^ -l memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4 
+
+
+
+	TEST NUMBER   434
+	 -l 
+
+
+
+	TEST NUMBER   435
+	-f -l 
+
+
+
+	TEST NUMBER   436
+	-e w -e h -e a -e t -e d -e a -e f -e q -l 
+
+
+
+	TEST NUMBER   437
+	-e d -f memtests/pattern -l 
+
+
+
+	TEST NUMBER   438
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -l 
+
+
+
+	TEST NUMBER   447
+	[^ -n memtests/long_string.txt
+
+
+
+	TEST NUMBER   471
+	[^ -n memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4 
+
+
+
+	TEST NUMBER   474
+	 -n 
+
+
+
+	TEST NUMBER   475
+	-f -n 
+
+
+
+	TEST NUMBER   476
+	-e w -e h -e a -e t -e d -e a -e f -e q -n 
+
+
+
+	TEST NUMBER   477
+	-e d -f memtests/pattern -n 
+
+
+
+	TEST NUMBER   478
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -n 
+
+
+
+	TEST NUMBER   487
+	[^ -h memtests/long_string.txt
+
+
+
+	TEST NUMBER   511
+	[^ -h memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4 
+
+
+
+	TEST NUMBER   514
+	 -h 
+
+
+
+	TEST NUMBER   515
+	-f -h 
+
+
+
+	TEST NUMBER   516
+	-e w -e h -e a -e t -e d -e a -e f -e q -h 
+
+
+
+	TEST NUMBER   517
+	-e d -f memtests/pattern -h 
+
+
+
+	TEST NUMBER   518
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -h 
+
+
+
+	TEST NUMBER   527
+	[^ -o memtests/long_string.txt
+
+
+
+	TEST NUMBER   551
+	[^ -o memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4 
+
+
+
+	TEST NUMBER   554
+	 -o 
+
+
+
+	TEST NUMBER   555
+	-f -o 
+
+
+
+	TEST NUMBER   556
+	-e w -e h -e a -e t -e d -e a -e f -e q -o 
+
+
+
+	TEST NUMBER   557
+	-e d -f memtests/pattern -o 
+
+
+
+	TEST NUMBER   558
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -o 
+
+
+
+	TEST NUMBER   567
+	[^ -i memtests/long_string.txt
+
+
+
+	TEST NUMBER   591
+	[^ -i memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4 
+
+
+
+	TEST NUMBER   594
+	 -i 
+
+
+
+	TEST NUMBER   595
+	-f -i 
+
+
+
+	TEST NUMBER   596
+	-e w -e h -e a -e t -e d -e a -e f -e q -i 
+
+
+
+	TEST NUMBER   597
+	-e d -f memtests/pattern -i 
+
+
+
+	TEST NUMBER   598
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -i 
+
+
+
+	TEST NUMBER   607
+	[^ -s memtests/long_string.txt
+
+
+
+	TEST NUMBER   631
+	[^ -s memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4  memtests/test_3.1 memtests/empty memtests/test_3.2 memtests/linefeed memtests/test_3.3 memtests/test_3.4 
+
+
+
+	TEST NUMBER   634
+	 -s 
+
+
+
+	TEST NUMBER   635
+	-f -s 
+
+
+
+	TEST NUMBER   636
+	-e w -e h -e a -e t -e d -e a -e f -e q -s 
+
+
+
+	TEST NUMBER   637
+	-e d -f memtests/pattern -s 
+
+
+
+	TEST NUMBER   638
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -s 
+
+
+
+	TEST NUMBER   647
+	[^ -v memtests/long_string.txt
+
+
+
+	TEST NUMBER   671
+	[^ -v memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4 
+
+
+
+	TEST NUMBER   674
+	 -v 
+
+
+
+	TEST NUMBER   675
+	-f -v 
+
+
+
+	TEST NUMBER   676
+	-e w -e h -e a -e t -e d -e a -e f -e q -v 
+
+
+
+	TEST NUMBER   677
+	-e d -f memtests/pattern -v 
+
+
+
+	TEST NUMBER   678
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -v 
+
+
+
+	TEST NUMBER   687
+	[^ -c memtests/long_string.txt
+
+
+
+	TEST NUMBER   711
+	[^ -c memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4 
+
+
+
+	TEST NUMBER   714
+	 -c 
+
+
+
+	TEST NUMBER   715
+	-f -c 
+
+
+
+	TEST NUMBER   716
+	-e w -e h -e a -e t -e d -e a -e f -e q -c 
+
+
+
+	TEST NUMBER   717
+	-e d -f memtests/pattern -c 
+
+
+
+	TEST NUMBER   718
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -c 
+
+
+
+	TEST NUMBER   727
+	[^ -l memtests/long_string.txt
+
+
+
+	TEST NUMBER   751
+	[^ -l memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4 
+
+
+
+	TEST NUMBER   754
+	 -l 
+
+
+
+	TEST NUMBER   755
+	-f -l 
+
+
+
+	TEST NUMBER   756
+	-e w -e h -e a -e t -e d -e a -e f -e q -l 
+
+
+
+	TEST NUMBER   757
+	-e d -f memtests/pattern -l 
+
+
+
+	TEST NUMBER   758
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -l 
+
+
+
+	TEST NUMBER   767
+	[^ -n memtests/long_string.txt
+
+
+
+	TEST NUMBER   791
+	[^ -n memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4 
+
+
+
+	TEST NUMBER   794
+	 -n 
+
+
+
+	TEST NUMBER   795
+	-f -n 
+
+
+
+	TEST NUMBER   796
+	-e w -e h -e a -e t -e d -e a -e f -e q -n 
+
+
+
+	TEST NUMBER   797
+	-e d -f memtests/pattern -n 
+
+
+
+	TEST NUMBER   798
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -n 
+
+
+
+	TEST NUMBER   807
+	[^ -h memtests/long_string.txt
+
+
+
+	TEST NUMBER   831
+	[^ -h memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4 
+
+
+
+	TEST NUMBER   834
+	 -h 
+
+
+
+	TEST NUMBER   835
+	-f -h 
+
+
+
+	TEST NUMBER   836
+	-e w -e h -e a -e t -e d -e a -e f -e q -h 
+
+
+
+	TEST NUMBER   837
+	-e d -f memtests/pattern -h 
+
+
+
+	TEST NUMBER   838
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -h 
+
+
+
+	TEST NUMBER   847
+	[^ -o memtests/long_string.txt
+
+
+
+	TEST NUMBER   871
+	[^ -o memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4 
+
+
+
+	TEST NUMBER   874
+	 -o 
+
+
+
+	TEST NUMBER   875
+	-f -o 
+
+
+
+	TEST NUMBER   876
+	-e w -e h -e a -e t -e d -e a -e f -e q -o 
+
+
+
+	TEST NUMBER   877
+	-e d -f memtests/pattern -o 
+
+
+
+	TEST NUMBER   878
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -o 
+
+
+
+	TEST NUMBER   887
+	[^ -i memtests/long_string.txt
+
+
+
+	TEST NUMBER   911
+	[^ -i memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4 
+
+
+
+	TEST NUMBER   914
+	 -i 
+
+
+
+	TEST NUMBER   915
+	-f -i 
+
+
+
+	TEST NUMBER   916
+	-e w -e h -e a -e t -e d -e a -e f -e q -i 
+
+
+
+	TEST NUMBER   917
+	-e d -f memtests/pattern -i 
+
+
+
+	TEST NUMBER   918
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -i 
+
+
+
+	TEST NUMBER   927
+	[^ -s memtests/long_string.txt
+
+
+
+	TEST NUMBER   951
+	[^ -s memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4  memtests/test_2.1 memtests/empty memtests/test_2.2 memtests/linefeed memtests/test_2.3 memtests/test_2.4 
+
+
+
+	TEST NUMBER   954
+	 -s 
+
+
+
+	TEST NUMBER   955
+	-f -s 
+
+
+
+	TEST NUMBER   956
+	-e w -e h -e a -e t -e d -e a -e f -e q -s 
+
+
+
+	TEST NUMBER   957
+	-e d -f memtests/pattern -s 
+
+
+
+	TEST NUMBER   958
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -s 
+
+
+
+	TEST NUMBER   967
+	[^ -v memtests/long_string.txt
+
+
+
+	TEST NUMBER   991
+	[^ -v memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4 
+
+
+
+	TEST NUMBER   994
+	 -v 
+
+
+
+	TEST NUMBER   995
+	-f -v 
+
+
+
+	TEST NUMBER   996
+	-e w -e h -e a -e t -e d -e a -e f -e q -v 
+
+
+
+	TEST NUMBER   997
+	-e d -f memtests/pattern -v 
+
+
+
+	TEST NUMBER   998
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -v 
+
+
+
+	TEST NUMBER  1007
+	[^ -c memtests/long_string.txt
+
+
+
+	TEST NUMBER  1031
+	[^ -c memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4 
+
+
+
+	TEST NUMBER  1034
+	 -c 
+
+
+
+	TEST NUMBER  1035
+	-f -c 
+
+
+
+	TEST NUMBER  1036
+	-e w -e h -e a -e t -e d -e a -e f -e q -c 
+
+
+
+	TEST NUMBER  1037
+	-e d -f memtests/pattern -c 
+
+
+
+	TEST NUMBER  1038
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -c 
+
+
+
+	TEST NUMBER  1047
+	[^ -l memtests/long_string.txt
+
+
+
+	TEST NUMBER  1071
+	[^ -l memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4 
+
+
+
+	TEST NUMBER  1074
+	 -l 
+
+
+
+	TEST NUMBER  1075
+	-f -l 
+
+
+
+	TEST NUMBER  1076
+	-e w -e h -e a -e t -e d -e a -e f -e q -l 
+
+
+
+	TEST NUMBER  1077
+	-e d -f memtests/pattern -l 
+
+
+
+	TEST NUMBER  1078
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -l 
+
+
+
+	TEST NUMBER  1087
+	[^ -n memtests/long_string.txt
+
+
+
+	TEST NUMBER  1111
+	[^ -n memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4 
+
+
+
+	TEST NUMBER  1114
+	 -n 
+
+
+
+	TEST NUMBER  1115
+	-f -n 
+
+
+
+	TEST NUMBER  1116
+	-e w -e h -e a -e t -e d -e a -e f -e q -n 
+
+
+
+	TEST NUMBER  1117
+	-e d -f memtests/pattern -n 
+
+
+
+	TEST NUMBER  1118
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -n 
+
+
+
+	TEST NUMBER  1127
+	[^ -h memtests/long_string.txt
+
+
+
+	TEST NUMBER  1151
+	[^ -h memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4 
+
+
+
+	TEST NUMBER  1154
+	 -h 
+
+
+
+	TEST NUMBER  1155
+	-f -h 
+
+
+
+	TEST NUMBER  1156
+	-e w -e h -e a -e t -e d -e a -e f -e q -h 
+
+
+
+	TEST NUMBER  1157
+	-e d -f memtests/pattern -h 
+
+
+
+	TEST NUMBER  1158
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -h 
+
+
+
+	TEST NUMBER  1167
+	[^ -o memtests/long_string.txt
+
+
+
+	TEST NUMBER  1191
+	[^ -o memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4 
+
+
+
+	TEST NUMBER  1194
+	 -o 
+
+
+
+	TEST NUMBER  1195
+	-f -o 
+
+
+
+	TEST NUMBER  1196
+	-e w -e h -e a -e t -e d -e a -e f -e q -o 
+
+
+
+	TEST NUMBER  1197
+	-e d -f memtests/pattern -o 
+
+
+
+	TEST NUMBER  1198
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -o 
+
+
+
+	TEST NUMBER  1207
+	[^ -i memtests/long_string.txt
+
+
+
+	TEST NUMBER  1231
+	[^ -i memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4 
+
+
+
+	TEST NUMBER  1234
+	 -i 
+
+
+
+	TEST NUMBER  1235
+	-f -i 
+
+
+
+	TEST NUMBER  1236
+	-e w -e h -e a -e t -e d -e a -e f -e q -i 
+
+
+
+	TEST NUMBER  1237
+	-e d -f memtests/pattern -i 
+
+
+
+	TEST NUMBER  1238
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -i 
+
+
+
+	TEST NUMBER  1247
+	[^ -s memtests/long_string.txt
+
+
+
+	TEST NUMBER  1271
+	[^ -s memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4  memtests/test_1.1 memtests/empty memtests/test_1.2 memtests/linefeed memtests/test_1.3 memtests/test_1.4 
+
+
+
+	TEST NUMBER  1274
+	 -s 
+
+
+
+	TEST NUMBER  1275
+	-f -s 
+
+
+
+	TEST NUMBER  1276
+	-e w -e h -e a -e t -e d -e a -e f -e q -s 
+
+
+
+	TEST NUMBER  1277
+	-e d -f memtests/pattern -s 
+
+
+
+	TEST NUMBER  1278
+	-f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -f memtests/pattern -s 
+
